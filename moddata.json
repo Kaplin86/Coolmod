@@ -1,0 +1,8 @@
+{
+    "displayname": "New Buildin Mod",
+    "creator": "kap",
+    "modver": 0.1,
+    "description":"This is an examples!",
+    "intendedgamever": 0.6,
+    "identifier":"newbuil"
+}

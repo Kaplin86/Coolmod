@@ -1,0 +1,17 @@
+{
+    "internalname":"newbuilding",
+    "displayname":"cool building",
+    "price":250,
+    "sizex":1,
+    "sizey":1,
+    "freeinput":false,
+    "showprogress":true,
+    "inputside": "null",
+    "outputside": "west",
+    "worktime":1,
+    "subtype":"producers",
+    "material":"def:wood",
+    "def:drill":{
+        "price":10
+    }
+}
